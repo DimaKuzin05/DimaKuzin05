@@ -37,3 +37,4 @@
 
 - GitHub: [@DimaKuzin05](https://github.com/DimaKuzin05)
 - Telegram: [@DimaKuzinW](https://t.me/DimaKuzinW)
+- Gmail: [2469894dima@gmail.com]
