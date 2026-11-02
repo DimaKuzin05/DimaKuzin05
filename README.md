@@ -1,4 +1,4 @@
-<h1 align="center">Hi im Dima </h1>
+<h1 align="center"> Hi im Dima </h1>
 
 <p align="center">
   Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь разработкой
@@ -37,4 +37,4 @@
 
 - GitHub: [@DimaKuzin05](https://github.com/DimaKuzin05)
 - Telegram: [@DimaKuzinW](https://t.me/DimaKuzinW)
-- Gmail: [2469894dima@gmail.com]
+- Gmail: 2469894dima@gmail.com
