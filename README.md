@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Дмитрий </h1>
 
 <p align="center">
-  Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь кибербезопасностью
+  Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь разработкой
 </p>
 
 <h2 align="center"> Технологии и инструменты</h2>
