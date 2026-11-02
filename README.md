@@ -1,19 +1,26 @@
-<h1 align="center">Привет, я Дмитрий </h1>
+<h1 align="center">Hi im Dima </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,git,bash,linux,apple,windows,docker,bun,blender,postgres,sqlite" alt="Языки, системы и инструменты" />
+  Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь разработкой
 </p>
 
+<h2 align="center"> Технологии и инструменты</h2>
+
 <p align="center">
-  <strong>Python:</strong> Flet · NumPy · pandas · Matplotlib · OpenCV · Aiogram · APScheduler
-</p>
-<p align="center">
-  <strong>Web:</strong> Express · Vite · Tailwind CSS · REST API
-</p>
-<p align="center">
-  <strong>Данные:</strong> PostgreSQL · SQLite · CSV
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,git,linux,apple,windows,docker,bun,blender" alt="Python, TypeScript, JavaScript, Git, Linux, macOS, Windows, Docker, Bun и Blender" />
+  </a>
 </p>
 
+<p align="center">Работаю с macOS, Windows и Linux</p>
+
+<h2 align="center"> Редакторы и IDE</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,visualstudio" alt="Visual Studio Code, PyCharm, WebStorm и Visual Studio" />
+  </a>
+</p>
 
 ##  Проекты
 
