@@ -1,18 +1,17 @@
 <h1 align="center">Привет, я Дмитрий </h1>
 
 <p align="center">
-  Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь разработкой
+  <img src="https://skillicons.dev/icons?i=python,ts,js,git,bash,linux,apple,windows,docker,bun,blender,postgres,sqlite" alt="Языки, системы и инструменты" />
 </p>
 
-<h2 align="center"> Технологии и инструменты</h2>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-  src="https://skillicons.dev/icons?i=python,ts,js,git,linux,apple,windows,docker,bun,blender,bash,sqlite,postgres"
-  alt="Python, TypeScript, JavaScript, Git, Linux, macOS, Windows, Docker, Bun, Blender, Bash, SQLite и PostgreSQL"
-/>
-  </a>
+  <strong>Python:</strong> Flet · NumPy · pandas · Matplotlib · OpenCV · Aiogram · APScheduler
+</p>
+<p align="center">
+  <strong>Web:</strong> Express · Vite · Tailwind CSS · REST API
+</p>
+<p align="center">
+  <strong>Данные:</strong> PostgreSQL · SQLite · CSV
 </p>
 
 
