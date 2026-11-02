@@ -1,10 +1,10 @@
-<h1 align="center">Привет, я Дмитрий 👋</h1>
+<h1 align="center">Привет, я Дмитрий </h1>
 
 <p align="center">
   Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь кибербезопасностью
 </p>
 
-<h2 align="center">🧰 Технологии и инструменты</h2>
+<h2 align="center"> Технологии и инструменты</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
 
 <p align="center">Работаю с macOS, Windows и Linux</p>
 
-## 🚀 Проекты
+##  Проекты
 
 - [Poker-server](https://github.com/DimaKuzin05/Poker-server) — клиент-серверный покерный проект с REST API, аналитическим дашбордом, SQLite и распознаванием карт через OpenCV.
 - [telegram-pin-auth](https://github.com/DimaKuzin05/telegram-pin-auth) — приложение для входа по одноразовому PIN-коду из Telegram; Python, Aiogram, Flet и TypeScript/Express.
@@ -25,7 +25,7 @@
 - [VrLabs](https://github.com/DimaKuzin05/VrLabs) — практические кейсы на Python по работе с 3D-сценами.
 - [MusicApp](https://github.com/DimaKuzin05/MusicApp) · [laba2-web](https://github.com/DimaKuzin05/laba2-web) · [AllProgTeorProgram](https://github.com/DimaKuzin05/AllProgTeorProgram) · [DataWar](https://github.com/DimaKuzin05/DataWar) · [qr_code](https://github.com/DimaKuzin05/qr_code)
 
-## 📫 Контакты
+##  Контакты
 
 - GitHub: [@DimaKuzin05](https://github.com/DimaKuzin05)
 - Telegram: [@DimaKuzinW](https://t.me/DimaKuzinW)
