@@ -1,5 +1,9 @@
 # Привет, я Дмитрий 👋
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 Студент 4 курса прикладной информатики. Создаю учебные проекты на Python и TypeScript/JavaScript — от Telegram-ботов и веб-приложений до аналитики и компьютерного зрения. Интересуюсь разработкой и автоматизацией.
 
 ## 🛠 Технологии
