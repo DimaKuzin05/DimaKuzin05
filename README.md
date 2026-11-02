@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,git,linux,apple,windows,docker,bun,blender" alt="Python, TypeScript, JavaScript, Git, Linux, macOS, Windows, Docker, Bun и Blender" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,git,linux,apple,windows,docker,bun,blender" alt="Python, TypeScript, JavaScript, Git, Linux, macOS, Windows, Docker, Bun и Blender, bash, sqlite, postgres" />
   </a>
 </p>
 
