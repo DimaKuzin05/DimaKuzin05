@@ -20,7 +20,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,visualstudio" alt="Visual Studio Code, PyCharm, WebStorm и Visual Studio" />
   </a>
+<p align="center">
+  <strong>Python:</strong> Flet · NumPy · pandas · Matplotlib · OpenCV · Aiogram · APScheduler
 </p>
+<p align="center">
+  <strong>Web:</strong> Express · Vite · Tailwind CSS · REST API
+</p>
+<p align="center">
+  <strong>Данные:</strong> PostgreSQL · SQLite · CSV
+</p> 
 
 ##  Проекты
 
