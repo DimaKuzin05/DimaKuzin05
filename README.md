@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<p align="center">Работаю с macOS, Windows и Linux</p>
 
 ##  Проекты
 
