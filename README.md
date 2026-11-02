@@ -1,20 +1,18 @@
-# Привет, я Дмитрий 👋
+<h1 align="center">Привет, я Дмитрий 👋</h1>
+
+<p align="center">
+  Студент прикладной информатики · Python и TypeScript/JavaScript · интересуюсь кибербезопасностью
+</p>
+
+<h2 align="center">🧰 Технологии и инструменты</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, py, ts, js, linux, docker, bun, blender" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,git,linux,apple,windows,docker,bun,blender" alt="Python, TypeScript, JavaScript, Git, Linux, macOS, Windows, Docker, Bun и Blender" />
   </a>
 </p>
-Студент 4 курса прикладной информатики. Создаю учебные проекты на Python и TypeScript/JavaScript — от Telegram-ботов и веб-приложений до аналитики и компьютерного зрения. Интересуюсь разработкой и автоматизацией.
 
-## 🛠 Технологии
-
-- **Языки:** Python, TypeScript, JavaScript
-- **Операционные системы:** macOS, Windows, Linux
-- **Backend и API:** Express, REST API
-- **Боты и приложения:** Aiogram, Flet
-- **Данные и аналитика:** PostgreSQL, SQLite, CSV, pandas, NumPy, Streamlit
-- **Компьютерное зрение:** OpenCV, YOLOv8
-- **Инструменты:** Git, Vite, Tailwind CSS, APScheduler
+<p align="center">Работаю с macOS, Windows и Linux</p>
 
 ## 🚀 Проекты
 
@@ -24,12 +22,8 @@
 - [steps-tracker-bot](https://github.com/DimaKuzin05/steps-tracker-bot) — бот для учёта шагов, статистики и ежедневных напоминаний.
 - [object_detection_system](https://github.com/DimaKuzin05/object_detection_system) — прототип обнаружения объектов на видеоданных с YOLOv8.
 - [bot_weather](https://github.com/DimaKuzin05/bot_weather) — Telegram-бот для получения погоды по геолокации.
-- [VrLabs](https://github.com/DimaKuzin05/VrLabs) — практические кейсы на Python по работе с 3D-сценами и VR.
-- [MusicApp](https://github.com/DimaKuzin05/MusicApp) — проект на TypeScript.
-- [laba2-web](https://github.com/DimaKuzin05/laba2-web) — учебный проект на JavaScript с практикой Git и командной разработки.
-- [AllProgTeorProgram](https://github.com/DimaKuzin05/AllProgTeorProgram) — учебные задания по теории программирования.
-- [DataWar](https://github.com/DimaKuzin05/DataWar) — проект на Python.
-- [qr_code](https://github.com/DimaKuzin05/qr_code) — проект на Python.
+- [VrLabs](https://github.com/DimaKuzin05/VrLabs) — практические кейсы на Python по работе с 3D-сценами.
+- [MusicApp](https://github.com/DimaKuzin05/MusicApp) · [laba2-web](https://github.com/DimaKuzin05/laba2-web) · [AllProgTeorProgram](https://github.com/DimaKuzin05/AllProgTeorProgram) · [DataWar](https://github.com/DimaKuzin05/DataWar) · [qr_code](https://github.com/DimaKuzin05/qr_code)
 
 ## 📫 Контакты
 
